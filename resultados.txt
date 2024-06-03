@@ -1,0 +1,6 @@
+entrada: ab
+resultado: aceito
+
+entrada: aa
+resultado: rejeitado
+
